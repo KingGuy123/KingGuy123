@@ -1,16 +1,27 @@
-## Hi there 👋
+\# Hi there, I'm Monark! 👋
 
-<!--
-**KingGuy123/KingGuy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an ambitious **Computer Engineering student at MPSTME** who is obsessed with figuring out how complex systems work under the hood.
+I am driven by a desire to build software that is structurally sound and data that tells a compelling story. I am currently moving past classroom syntax to build real-world backend architectures and exploratory data scripts. 
+---
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, C, C++ |
+| **Data Science / ML** | NumPy, Pandas |
+| **Frontend Dev** | HTML5, CSS3, JavaScript |
+| **Tools & Workflow** | Git, GitHub |
+
+---
+
+### 🚀 Current Focus & Ambitions
+*   **Deep Dive:** Mastering Object-Oriented Programming (OOP) design patterns in Java.
+*   **Data Exploration:** Transitioning from simple syntax tutorials to manipulating massive, raw datasets using Python.
+*   **Open Source:** Looking forward to contributing to my first open-source project soon.
+*   **Goal:** Securing a challenging Software Engineering or Machine Learning internship where I can be thrown into the deep end of production code.
+
+---
+
+
+📬 **How to reach me:** Connect with me on [LinkedIn](linkedin.com/in/monark-chauhan-61268a374/) or drop an issue on any of my repositories!
