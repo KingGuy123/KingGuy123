@@ -1,4 +1,4 @@
-Hi there, I'm Monark! 👋
+### Hi there, I'm Monark! 👋
 
 I am an ambitious **Computer Engineering student** who is obsessed with figuring out how complex systems work under the hood.
 I am driven by a desire to build software that is structurally sound and data that tells a compelling story.
@@ -24,4 +24,4 @@ I am driven by a desire to build software that is structurally sound and data th
 ---
 
 
-📬 **How to reach me:** Connect with me on [LinkedIn](linkedin.com/in/monark-chauhan-61268a374/) or drop an issue on any of my repositories!
+**How to reach me:** Connect with me on [LinkedIn](linkedin.com/in/monark-chauhan-61268a374/) or drop an issue on any of my repositories!
