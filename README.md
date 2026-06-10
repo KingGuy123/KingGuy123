@@ -1,7 +1,7 @@
 Hi there, I'm Monark! 👋
 
-I am an ambitious **Computer Engineering student at MPSTME** who is obsessed with figuring out how complex systems work under the hood.
-I am driven by a desire to build software that is structurally sound and data that tells a compelling story. I am currently moving past classroom syntax to build real-world backend architectures and exploratory data scripts. 
+I am an ambitious **Computer Engineering student** who is obsessed with figuring out how complex systems work under the hood.
+I am driven by a desire to build software that is structurally sound and data that tells a compelling story.
 ---
 
 ### 🛠️ My Tech Toolkit
