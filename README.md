@@ -4,7 +4,7 @@ I am an ambitious **Computer Engineering student** who is obsessed with figuring
 I am driven by a desire to build software that is structurally sound and data that tells a compelling story.
 ---
 
-### 🛠️ My Tech Toolkit
+### My Current Tech Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
@@ -15,7 +15,7 @@ I am driven by a desire to build software that is structurally sound and data th
 
 ---
 
-### 🚀 Current Focus & Ambitions
+### Focus & Ambitions
 *   **Deep Dive:** Mastering Object-Oriented Programming (OOP) design patterns in Java.
 *   **Data Exploration:** Transitioning from simple syntax tutorials to manipulating massive, raw datasets using Python.
 *   **Open Source:** Looking forward to contributing to my first open-source project soon.
