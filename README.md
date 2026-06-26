@@ -19,7 +19,6 @@ I am driven by a desire to build software that is structurally sound and data th
 *   **Deep Dive:** Mastering Object-Oriented Programming (OOP) design patterns in Java.
 *   **Data Exploration:** Transitioning from simple syntax tutorials to manipulating massive, raw datasets using Python.
 *   **Open Source:** Looking forward to contributing to my first open-source project soon.
-*   **Goal:** Securing a challenging Software Engineering or Machine Learning internship where I can be thrown into the deep end of production code.
 
 ---
 
