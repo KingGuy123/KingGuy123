@@ -1,7 +1,6 @@
 ### Hi there, I'm Monark! 👋
 
-I am an ambitious **Computer Engineering student** who is obsessed with figuring out how complex systems work under the hood.
-I am driven by a desire to build software that is structurally sound and data that tells a compelling story.
+I am an ambitious **Computer Engineering student** who is interested in figuring out how complex systems work under the hood.
 ---
 
 ### My Current Tech Toolkit
