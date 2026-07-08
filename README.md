@@ -22,4 +22,4 @@ I am an ambitious **Computer Engineering student** who is interested in figuring
 ---
 
 
-**How to reach me:** Connect with me on [LinkedIn](linkedin.com/in/monark-chauhan-61268a374/) or drop an issue on any of my repositories!
+**How to reach me:** Connect with me on [LinkedIn](linkedin.com/in/monark-chauhan-halamadrid/) or drop an issue on any of my repositories!
